@@ -1,0 +1,17 @@
+name: lol_api
+description: A package for using the League of Legends API in Dart language.
+version: 0.1.0
+homepage: https://github.com/your_username/lol_api
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  json_annotation: ^4.8.0
+  plugin_platform_interface: ^2.0.2
+  riot_api: ^0.1.0
+dev_dependencies:
+  json_serializable: ^6.6.1
+  build_runner: ^2.3.3
+  lints: ^2.0.0
+  test: ^1.21.0
