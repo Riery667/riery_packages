@@ -4,10 +4,3 @@ description: A monorepo containing multiple packages for Riery. All the code as 
 
 environment:
   sdk: ^3.0.0
-
-dependencies:
-  riot_api:
-    path: packages/riot_api
-
-  lol_api:
-    path: packages/lol_api
